@@ -1,0 +1,15 @@
+I'm late on making Patch Notes so going to start at 43.
+
+Patch 43:
+	- Discovery Break
+	* Now working Discoverying Great Content
+	* Allowing Rueben to be selected.
+	- nGage
+	* No Updates
+	- nCrave
+	* No Updates
+Patch 44-54:
+	*Big Swagbucks over haul frogot to document all the changes.
+Patch 55:
+	*Added a config file - Every time you run Garbage it will check for a config.txt if none is found its fine.  When you log in it will create
+				config.txt every time and replace any changes you make.
