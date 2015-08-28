@@ -13,3 +13,5 @@ Patch 44-54:
 Patch 55:
 	*Added a config file - Every time you run Garbage it will check for a config.txt if none is found its fine.  When you log in it will create
 				config.txt every time and replace any changes you make.
+Patch 56:
+	*Added GitHub Support
