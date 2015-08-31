@@ -16,13 +16,6 @@
   <dependency>
     <dependentAssembly dependencyType="install" codebase="Application Files\garbage_1_0_0_0\garbage.exe.manifest" size="10264">
       <assemblyIdentity name="garbage.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>imQxwNItOJ0kDrkpYGq8ThhuXKjhVwjmT73ZUBByLkA=</dsig:DigestValue>
-      </hash>
     </dependentAssembly>
   </dependency>
 </asmv1:assembly>
