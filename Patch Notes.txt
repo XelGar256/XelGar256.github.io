@@ -15,3 +15,5 @@ Patch 55:
 				config.txt every time and replace any changes you make.
 Patch 56:
 	*Added GitHub Support
+Patch 57:
+	Garbage is now self updating when you rerun it.  All you need is garbage.application, chromedriver.exe, login.text (if you use it).
