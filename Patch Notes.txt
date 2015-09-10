@@ -17,3 +17,5 @@ Patch 56:
 	*Added GitHub Support
 Patch 57:
 	Garbage is now self updating when you rerun it.  All you need is garbage.application, chromedriver.exe, login.text (if you use it).
+Patch 58:
+	Swag Caught on Changed their card info.  I have bested them and is now running just fine.
