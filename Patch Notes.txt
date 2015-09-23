@@ -26,3 +26,6 @@ Patch 60:
 	*Discovery Break
 	-Should now know if the window closes and stop trying to find elements.
 	-Disable point gathering for the moment.
+Patch 61:
+	*Discovery Break
+	-Minor Issue attempting fix
