@@ -22,3 +22,7 @@ Patch 58:
 Patch 59:
 	*Discovery Break Timer Goes To 00:-1
 	 Should fix this issue.
+Patch 60:
+	*Discovery Break
+	-Should now know if the window closes and stop trying to find elements.
+	-Disable point gathering for the moment.
