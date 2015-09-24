@@ -32,3 +32,6 @@ Patch 61:
 Patch 62:
 	*Discovery Break
 	-Minor Issue attempting fix
+Patch 63:
+	*Discovery Break
+	-Allows click of radio buttons to move on with getting swagbucks.
