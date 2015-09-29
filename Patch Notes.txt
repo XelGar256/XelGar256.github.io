@@ -35,3 +35,6 @@ Patch 62:
 Patch 63:
 	*Discovery Break
 	-Allows click of radio buttons to move on with getting swagbucks.
+Patch 64:
+	*Human Like Component
+	-Allows you to do Daily Poll and Crave automaticlly to look more human.
