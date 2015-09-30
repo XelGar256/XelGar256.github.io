@@ -38,3 +38,8 @@ Patch 63:
 Patch 64:
 	*Human Like Component
 	-Allows you to do Daily Poll and Crave automaticlly to look more human.
+Patch 65:
+	*Form Change
+	-Added a Check Box to run Daily Poll/Crave
+	*Discovery Break
+	-Window Popped up with Date Of Birth Will random between everything and select for you.
