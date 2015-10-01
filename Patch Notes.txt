@@ -43,3 +43,6 @@ Patch 65:
 	-Added a Check Box to run Daily Poll/Crave
 	*Discovery Break
 	-Window Popped up with Date Of Birth Will random between everything and select for you.
+Patch 66:
+	*Discovery Break
+	-Wasn't closing out to continue into nGage or Encrave but fixed.
